@@ -32,5 +32,5 @@ public class DropBox extends UIComponent {
         if (index - 1 <= options.length && index >= 0) {
             this.optionSelected = options[index];
         }
-    }
+    } // THIS IS MY COMMENT
 }
