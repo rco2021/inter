@@ -17,4 +17,6 @@ public class PrinterClass {
     public void printMessage(){
         System.out.println(msg);
     }
+
+    public void  printHelloWorld() { System.out.println("Hi World"); }
 }
