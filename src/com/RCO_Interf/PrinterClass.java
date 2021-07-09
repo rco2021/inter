@@ -18,5 +18,5 @@ public class PrinterClass {
         System.out.println(msg);
     }
 
-    public void  printHiWorld() { System.out.println("Hi World"); }
+    public void  printHiWorld() { System.out.println("Hi World . :)"); }
 }
